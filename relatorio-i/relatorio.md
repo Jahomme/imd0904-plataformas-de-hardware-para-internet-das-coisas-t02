@@ -20,4 +20,4 @@
 
 ## Vídeo do circuito funcionando
 
-[Abrir Vídeo](https://www.youtube.com/watch?v=PjiLmydadak)
+[![Assista ao vídeo](https://img.youtube.com/vi/PjiLmydadak/maxresdefault.jpg)](https://www.youtube.com/watch?v=PjiLmydadak)
